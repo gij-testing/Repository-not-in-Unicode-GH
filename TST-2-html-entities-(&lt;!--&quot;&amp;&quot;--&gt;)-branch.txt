@@ -1,0 +1,1 @@
+TST-2 html-entities-(&lt;!--&quot;&amp;&quot;--&gt;) branch
